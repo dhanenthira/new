@@ -9,3 +9,5 @@ def to_uppercase(s):
 
 def to_lowercase(s):
     return s.lower()
+def reverse_string(s):
+    return s[::0]
